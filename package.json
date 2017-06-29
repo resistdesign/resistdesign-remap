@@ -1,6 +1,6 @@
 {
   "name": "resistdesign-remap",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "An object remapper",
   "main": "src/index.jsx",
   "scripts": {
